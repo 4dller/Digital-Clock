@@ -6,7 +6,7 @@ Este é um projeto simples que implementa um relógio digital em uma página da 
 
 1. **Clone este repositório em sua máquina local:**
     ```
-    git clone https://github.com/seu-usuario/relogio-digital.git
+    git clone https://github.com/4dller/Digital-Clock.git
     ```
 
 2. **Navegue até o diretório do projeto:**
@@ -34,9 +34,8 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 
 ## Autor
 
-[Seu Nome/Apodo] - [Link para seu perfil/contato]
+[Adller de Oliveira Ferreira] - [https://www.instagram.com/4dller_/]
 
 ## Agradecimentos
 
-- Agradeço a [nome do colaborador] por suas contribuições.
-- Inspiração e aprendizado obtidos de [referência de aprendizado ou projeto similar].
+- Inspiração e aprendizado obtidos de [GreatStackDev].
