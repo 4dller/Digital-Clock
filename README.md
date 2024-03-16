@@ -2,6 +2,8 @@
 
 Este é um projeto simples que implementa um relógio digital em uma página da web usando tecnologias web básicas: HTML, CSS e JavaScript. O relógio exibe as horas, minutos e segundos atualizados em tempo real, proporcionando uma experiência visual simples e funcional.
 
+![Captura de tela 2024-03-16 190412](https://github.com/4dller/Digital-Clock/assets/105998603/187e3929-c888-42e5-92e3-f748883dabbc)
+
 ## Como Usar
 
 1. **Clone este repositório em sua máquina local:**
