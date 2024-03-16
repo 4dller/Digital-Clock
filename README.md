@@ -11,7 +11,7 @@ Este é um projeto simples que implementa um relógio digital em uma página da 
 
 2. **Navegue até o diretório do projeto:**
     ```
-    cd relogio-digital
+    cd digital-clock
     ```
 
 3. **Abra o arquivo `index.html` em seu navegador web preferido.**
